@@ -1,0 +1,39 @@
+TASK 1 (Easy):
+Create a Python function that calculates compound interest.
+Write tests for positive and zero interest rates.
+
+---
+
+TASK 2 (Medium):
+Create a CLI expense tracker.
+
+Requirements:
+- Add expense
+- Delete expense
+- List expenses
+- Calculate total
+- Save data to JSON
+
+---
+
+TASK 3 (Advanced):
+Create a Python CSV data analyzer.
+
+Requirements:
+- Load a CSV file
+- Detect numeric columns
+- Calculate basic statistics
+- Handle missing values
+- Produce a readable summary
+
+---
+
+TASK 4 (Bonus):
+Create a Python utility that validates and normalizes phone numbers
+from a list of raw strings, grouping valid and invalid entries.
+
+---
+
+TASK 5 (Bonus):
+Create a simple command-line to-do list manager that stores tasks
+in a local JSON file and supports add, complete, and list operations.
