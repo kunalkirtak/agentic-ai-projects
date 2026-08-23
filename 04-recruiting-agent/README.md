@@ -285,6 +285,7 @@ Iterations: 4
 Final hiring decisions must be made by qualified human reviewers.
 ```
 ## Screenshot of the output
+![Generated code preview](screenshot/output_code.png)
 
 
 ## Free-Tier Optimization
