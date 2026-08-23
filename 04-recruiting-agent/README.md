@@ -284,6 +284,8 @@ Iterations: 4
 ⚠ This system provides decision support only.
 Final hiring decisions must be made by qualified human reviewers.
 ```
+## Screenshot of the output
+
 
 ## Free-Tier Optimization
 
