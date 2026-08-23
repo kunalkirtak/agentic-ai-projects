@@ -1,0 +1,27 @@
+Daniel Osei
+Machine Learning Engineer
+
+Summary
+Machine learning engineer focused on model development and experimentation.
+Comfortable with Python for data work; limited exposure to backend/API development.
+
+Skills
+Python, scikit-learn, PyTorch, Pandas, NumPy, Jupyter, SQL, Git
+
+Experience
+ML Engineer, Northbeam Analytics (2022 - Present)
+- Trained and evaluated classification models for customer churn prediction
+- Built data pipelines in Python/Pandas to clean and featurize raw event logs
+- Presented model performance results to stakeholders using Jupyter notebooks
+- Used Git for notebook and script version control
+
+Data Analyst, Riverstone Insurance (2020 - 2022)
+- Built SQL queries and dashboards for underwriting analysis
+- Automated recurring reports using Python scripts
+
+Projects
+- Churn Prediction Model: gradient boosting model, ~0.81 AUC
+- Notebook-based sentiment classifier for support tickets using scikit-learn
+
+Education
+M.Sc. in Statistics, University of Ghana (2020)

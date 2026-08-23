@@ -1,0 +1,28 @@
+Jason Lee
+Frontend Engineer
+
+Summary
+Frontend-focused engineer with 3 years of experience building web interfaces.
+Some exposure to backend work but primarily a JavaScript/TypeScript developer.
+
+Skills
+JavaScript, TypeScript, React, Next.js, CSS, HTML, Git, basic Python
+
+Experience
+Frontend Engineer, Bright Retail Co (2022 - Present)
+- Built and maintained a React/Next.js storefront used by ~50k monthly visitors
+- Worked with a small internal API layer (written by the backend team) to
+  fetch product and order data
+- Wrote a handful of small Python scripts for one-off data cleanup tasks
+- Used Git for version control and participated in code review
+
+UI Developer, Studio Pixel (2020 - 2022)
+- Implemented responsive UI components in React
+- Collaborated with designers on a component library
+
+Projects
+- E-commerce Storefront: React/Next.js frontend, connected to an existing REST API
+- Personal Portfolio Site: static site with a small Python script to generate pages
+
+Education
+B.A. in Interactive Media, San Jose State University (2020)

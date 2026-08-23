@@ -1,0 +1,30 @@
+Aisha Rahman
+Applied AI Engineer
+
+Summary
+Applied AI engineer with 2.5 years of experience building LLM-powered features.
+Strong Python and ML background; API/backend work has mostly been in Flask rather
+than FastAPI.
+
+Skills
+Python, Machine Learning, LLM application development, Flask, REST APIs, Pandas,
+Git, basic Docker
+
+Experience
+Applied AI Engineer, Northline Software (2023 - Present)
+- Built an LLM-powered document summarization feature using Python
+- Exposed the summarization feature through a small Flask REST API
+- Fine-tuned prompt templates and evaluated output quality against a labeled test set
+- Wrote Python data pipelines using Pandas to prepare training/eval datasets
+
+Machine Learning Intern, Cascade Data (2022)
+- Assisted in training a text classification model
+- Wrote Python scripts to clean and label raw text data
+
+Projects
+- Document Summarizer: Python + Flask service that calls an LLM API and returns
+  structured summaries
+- Text Classifier: scikit-learn based classifier for support ticket routing
+
+Education
+B.S. in Computer Science, North South University (2022)

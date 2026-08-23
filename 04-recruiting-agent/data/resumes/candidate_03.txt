@@ -1,0 +1,30 @@
+Maria Fernandez
+AI / Backend Engineer
+
+Summary
+Software engineer with 4 years of experience, the last two focused on building
+LLM-powered applications in production.
+
+Skills
+Python, FastAPI, REST APIs, RAG, Vector databases, LangChain, Docker, AWS, Git
+
+Experience
+AI Engineer, Solvex AI (2023 - Present)
+- Designed and shipped a RAG-based support assistant using FastAPI and a vector
+  database (Pinecone) to ground LLM responses in internal documentation
+- Built REST APIs for document ingestion, embedding, and retrieval
+- Deployed services to AWS (ECS + S3) using Docker images
+- Integrated an LLM provider's API for response generation and used LangChain for
+  orchestration of multi-step retrieval chains
+
+Software Engineer, Solvex AI (2021 - 2023)
+- Built internal REST APIs in FastAPI for the analytics platform
+- Set up CI checks and Docker-based local dev environments
+- Used Git/GitHub for all source control, including code review
+
+Projects
+- RAG Chatbot: FastAPI + Pinecone + LLM integration, deployed on AWS
+- FastAPI AI Service: internal microservice exposing embedding and search endpoints
+
+Education
+B.S. in Computer Science, Universidad de Chile (2020)
