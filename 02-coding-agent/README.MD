@@ -213,13 +213,15 @@ environment.** A production system would additionally need:
 ├── .env.example
 ├── data/
 │   └── sample_tasks.txt
+├── screenshot/             # output pic after running file 
 ├── examples/
 │   └── expense_tracker_task.txt
+├── notebooks/
+│   └── Agentic_Coding_Agent_Colab.ipynb
 └── tests/
     └── test_tools.py
 
-notebooks/
-└── Agentic_Coding_Agent_Colab.ipynb
+
 ```
 
 ## Tech Stack
