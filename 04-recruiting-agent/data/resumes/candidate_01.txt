@@ -1,0 +1,28 @@
+Priya Nair
+Backend Software Engineer
+
+Summary
+Backend engineer with 3 years of experience building web services in Python.
+Comfortable owning a service from design to deployment.
+
+Skills
+Python, FastAPI, Flask, PostgreSQL, REST APIs, Git, Docker, pytest
+
+Experience
+Backend Engineer, Fintrack Labs (2022 - Present)
+- Built and maintained REST APIs using FastAPI for a transaction-tracking product
+- Migrated a legacy Flask service to FastAPI, cutting response times by 30%
+- Wrote unit and integration tests with pytest, kept coverage above 85%
+- Used Git for version control across a team of 6 engineers
+
+Software Engineer, Loopstack (2021 - 2022)
+- Developed internal REST APIs consumed by the mobile team
+- Containerized services with Docker for local development
+
+Projects
+- Expense Tracker API: FastAPI + PostgreSQL service with JWT auth
+- Internal Search Tool: added a basic keyword search endpoint over support tickets;
+  briefly explored embedding-based search but the project was shelved before completion
+
+Education
+B.Tech in Computer Science, VIT Pune (2021)
