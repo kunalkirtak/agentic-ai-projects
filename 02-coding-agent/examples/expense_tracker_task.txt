@@ -1,0 +1,8 @@
+Build a Python CLI expense tracker.
+
+Requirements:
+- Add an expense
+- Delete an expense
+- List expenses
+- Show total spending
+- Store data locally
