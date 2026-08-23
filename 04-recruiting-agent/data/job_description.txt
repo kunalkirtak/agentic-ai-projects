@@ -1,0 +1,26 @@
+AI Engineer
+
+We are looking for an AI Engineer to build production-oriented AI applications.
+
+Required:
+- Python
+- FastAPI
+- REST APIs
+- LLM application development
+- RAG
+- Git
+- 2+ years software engineering experience
+
+Preferred:
+- Docker
+- AWS
+- Vector databases
+- Machine learning experience
+
+Responsibilities:
+- Build AI-powered applications
+- Develop backend APIs
+- Integrate LLMs
+- Build retrieval-augmented generation systems
+- Write maintainable Python code
+- Collaborate with engineering teams
