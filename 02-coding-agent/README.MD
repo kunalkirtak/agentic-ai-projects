@@ -303,6 +303,8 @@ Build a Python CLI expense tracker.
 ✅ CODING TASK COMPLETED
 ========================================================
 ```
+## output screenshot 
+![Generated code preview](screenshot/output_code.png)
 
 ## Free-Tier Optimization
 
