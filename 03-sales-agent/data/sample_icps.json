@@ -1,0 +1,16 @@
+{
+  "saas_india_demo": {
+    "industry": "SaaS",
+    "geography": "India",
+    "company_size": "50-500 employees",
+    "customer_problem": "Operational workflows that could benefit from AI automation",
+    "product": "AI automation platform"
+  },
+  "ecommerce_india_demo": {
+    "industry": "E-commerce",
+    "geography": "India",
+    "company_size": "100-1000 employees",
+    "customer_problem": "Customer support and operational automation",
+    "product": "AI customer-support automation"
+  }
+}
