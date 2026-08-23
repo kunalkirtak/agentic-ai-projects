@@ -140,16 +140,11 @@ Every criterion score carries a one-line evidence string and every lead carries 
 ├── data/
 │   └── sample_icps.json
 │
-├── outputs/
-│   └── .gitkeep
+├── tests/
+│    └── test_scoring.py
 │
-└── tests/
-    └── test_scoring.py
-```
-
-```
-notebooks/
-└── Agentic_Sales_Agent_Colab.ipynb
+└── notebooks/
+    └── Agentic_Sales_Agent_Colab.ipynb
 ```
 
 ## Tech Stack
